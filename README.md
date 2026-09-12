@@ -24,7 +24,7 @@ To set up **SIGN-O-VOICE**, ensure you have Python 3.9 installed. Follow the ste
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/HotPolarbear/MP16-SIGNO-VOICE.git
+   git clone https://github.com/prashant-ml/MP16-SIGNO-VOICE.git
    cd sign-o-voice
    ```
 
